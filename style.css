@@ -1,0 +1,50 @@
+html {
+    scroll-behavior: smooth ;
+}
+.title
+{font-family: 'Pacifico', cursive;
+font-size: 70px;}
+
+#welcome{
+    font-size: 60px;
+    margin-top:150px;
+}
+
+body{
+    background-color: salmon;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+img {
+    border-radius: 70%;
+  }
+
+  #garlic{
+      margin-right:170px;
+      text-align: center;
+      height: 610px;
+  }
+ 
+  
+.justText {
+    margin-right: 180px;
+}
+.garlicWala {
+    font-weight: bold;
+}
+
+#dietz {
+    margin-right: 170px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#muffin{
+    margin-right:170px;
+    text-align: center;
+    height: 610px;
+}
+
+#italic {
+    font-style: italic;
+}
